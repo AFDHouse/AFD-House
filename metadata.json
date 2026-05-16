@@ -1,0 +1,8 @@
+{
+  "name": "AFD House - Premium Fashion eCommerce",
+  "description": "A full-featured multi-category fashion store for Men, Women, and Kids with admin dashboard and real-time order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
